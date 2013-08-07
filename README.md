@@ -4,7 +4,7 @@ PasswordGenerator
 About
 -------------------------
 
-A simple HTML/CSS/JS password generator.
+A simple HTML/CSS/JS password generator, powered by [Bootstrap](http://getbootstrap.com/).
 
 
 Contacts
