@@ -1,4 +1,4 @@
-PasswordGenerator
+GERpassgen
 =================
 
 About
@@ -10,4 +10,4 @@ A simple HTML/CSS/JS password generator, powered by [Bootstrap](http://getbootst
 Contacts
 -------------------------
 
-Project by [picks](https://github.com/picks44) - [Twitter](https://twitter.com/VinzGhislain) for [Desoutter Tools](http://www.desouttertools.com).
+Project by [picks](http://www.vincentghislain.fr) ([GitHub](https://github.com/picks44)-[BitBucket](https://bitbucket.org/picks)-[Twitter](https://twitter.com/VinzGhislain)).
